@@ -1,7 +1,7 @@
 /*
-Faça um programa que mostre na tela os numeros impares de 0 ate 80;
-E a média dos numeros pares de 0 até 80.
-Faça usando apenas um while.
+FaÃ§a um programa que mostre na tela os numeros impares de 0 ate 80;
+E a mÃ©dia dos numeros pares de 0 atÃ© 80.
+FaÃ§a usando apenas um while.
 */
 #include<iostream>
 #include<string.h>
@@ -25,7 +25,7 @@ int main(){
 		
 		contador++;
 	}
-	cout<<"\nA média dos pares é: "<<soma/par;
+	cout<<"\nA mÃ©dia dos pares Ã©: "<<soma/par;
 	
 	return 0;
 }
