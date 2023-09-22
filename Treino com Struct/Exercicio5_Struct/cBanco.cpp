@@ -83,7 +83,7 @@ void cBanco::saque(sClientes *vetClientes){
     float saque;
     int i;
     
-    cout<<"Informe o CPF do cliente que deseja fazer um depósito: ";
+    cout<<"Informe o CPF do cliente que deseja fazer um Saque: ";
     cin>>aux;
     
     for(i=0; i<3;i++){
